@@ -1,0 +1,23 @@
+Visual Studio
+
+.vs/
+
+Build output - all projects
+
+**/bin/ **/obj/
+
+User-specific files
+
+*.user *.suo
+
+IDE temporary files
+
+*.cache
+
+Build logs
+
+*.log
+
+Environment variables and secrets
+
+*/.env **/.env. **/.env */.env. **/appsettings.json **/appsettings.*.json
